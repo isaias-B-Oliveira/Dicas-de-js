@@ -1,0 +1,16 @@
+
+#container{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#container-b{
+    background-color: rgb(11, 209, 77);
+    width: 100px;
+    height: 100px;
+}
+
+.hilden{
+    display: none;
+}
